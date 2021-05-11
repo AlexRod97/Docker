@@ -1,2 +1,2 @@
 # Docker
-Docker created for OS curse proyect
+Docker created for OS course proyect
